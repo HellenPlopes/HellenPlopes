@@ -2,26 +2,29 @@
 
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=1000&color=FF0000&multiline=true&width=800&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)**
 
-Sou Hellen Lopes, tenho 22 anos, sou de Fortaleza (CE) e estou em transição para a área de tecnologia. Atualmente estou cursando <span style="color:#FF0000">Análise e Desenvolvimento de Sistemas</span> e me dedicando ao estudo de linguagens como JavaScript e Python. Tenho familiaridade com ferramentas como Excel e fundamentos de TI, o que reforça meu interesse em unir lógica e funcionalidade nos projetos que desenvolvo.
+Sou Hellen Lopes, tenho 22 anos, sou de Fortaleza (CE) e estou em transição para a área de tecnologia. Atualmente estou cursando <font style="color:#FF0000">Análise e Desenvolvimento de Sistemas</font> e me dedicando ao estudo de linguagens como JavaScript e Python. Tenho familiaridade com ferramentas como Excel e fundamentos de TI, o que reforça meu interesse em unir lógica e funcionalidade nos projetos que desenvolvo.
 
-Minha meta é construir uma carreira sólida na área de <span style="color:#FF0000">tecnologia</span>, contribuindo com soluções inteligentes e eficientes. Sou movida por desafios, aprendizado constante e pelo desejo de crescer e fazer a diferença no que me proponho a fazer.
 
 ---
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    </td>
-    <td align="center">
-      <img src="https://i.imgur.com/oRfuNMo.png" alt="Gatinho fofinho" width="150px"/>
-    </td>
-  </tr>
-</table>
+
+<br>
+
+ <div  align="center">
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  </div>
+
+<br>
+ 
+  <div align="center" >
+    <img src="https://i.imgur.com/oRfuNMo.png" alt="Gatinho fofinho" width="200px"/>
+  </div>
+
+
 
 
 
@@ -49,13 +52,14 @@ Minha meta é construir uma carreira sólida na área de <span style="color:#FF0
   <br>
   <br>
 
-<table width="100%" style="border: 0;">
-  <tr>
-    <td align="center">
+<div width="100%" style="column-count: 2">
+  <p>
+    <span align="left">
       <img src="https://i.imgur.com/sFkGfnx.gif" alt="Gatinho fofinho" width="200px" style="border-radius:40px"/>
-    </td>
+    </span>
+    </p>
 
-<td align="rigth">
+<p align="rigth">
       <a href="mailto:hellenlopes0987@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" style="border-radius:40px"/>
       </a><br>
@@ -65,9 +69,9 @@ Minha meta é construir uma carreira sólida na área de <span style="color:#FF0
       <a href="https://www.linkedin.com/in/hellen-lopes-a891121a8/">
         <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" style="border-radius:40px"/>
       </a>
-    </td>
-  </tr>
-</table>
+    </p>
+
+</div>
 <br>
 <div>
 <img src="https://2.bp.blogspot.com/-Id6R_kPy8Yc/UexhWR2afHI/AAAAAAAA-4k/qxqmEVSDQDw/s1600/joaninhatuj.gif" alt="Gatinho fofinho" width="100px" style="border-radius:40px"/>
@@ -76,4 +80,5 @@ Minha meta é construir uma carreira sólida na área de <span style="color:#FF0
 <img src="https://2.bp.blogspot.com/-Id6R_kPy8Yc/UexhWR2afHI/AAAAAAAA-4k/qxqmEVSDQDw/s1600/joaninhatuj.gif" alt="Gatinho fofinho" width="100px" style="border-radius:40px"/>
 <img src="https://2.bp.blogspot.com/-Id6R_kPy8Yc/UexhWR2afHI/AAAAAAAA-4k/qxqmEVSDQDw/s1600/joaninhatuj.gif" alt="Gatinho fofinho" width="100px" style="border-radius:40px"/>
 </div>
+
 
