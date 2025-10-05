@@ -7,7 +7,7 @@ Sou Hellen Lopes, tenho 22 anos, sou de Fortaleza (CE) e estou em transição pa
 Minha meta é construir uma carreira sólida na área de <span style="color:#FF0000">tecnologia</span>, contribuindo com soluções inteligentes e eficientes. Sou movida por desafios, aprendizado constante e pelo desejo de crescer e fazer a diferença no que me proponho a fazer.
 
 ---
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -18,10 +18,11 @@ Minha meta é construir uma carreira sólida na área de <span style="color:#FF0
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/oRfuNMo.png" alt="Gatinho fofinho" width="200px"/>
+      <img src="https://i.imgur.com/oRfuNMo.png" alt="Gatinho fofinho" width="150px"/>
     </td>
   </tr>
 </table>
+
 
 
 ### 🧠👩‍💻 Tecnologias e Linguagens
@@ -48,7 +49,7 @@ Minha meta é construir uma carreira sólida na área de <span style="color:#FF0
   <br>
   <br>
 
-<table width="100%" style="border: none;">
+<table width="100%" style="border: 0;">
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/sFkGfnx.gif" alt="Gatinho fofinho" width="200px" style="border-radius:40px"/>
